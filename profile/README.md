@@ -104,7 +104,7 @@ println(a);
 
 [Discord Server](https://discord.gg/PsC9gjm65U)
 
-[Website]()
+[Website](https://jdashdash.github.io/)
 
 ## JetBrains
 
