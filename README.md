@@ -4,7 +4,7 @@
 [![Code size](https://img.shields.io/github/languages/code-size/JDashDash/J--?style=for-the-badge)](https://github.com/JDashDash/J--)
 [![Last Release](https://img.shields.io/github/release/JDashDash/J--?style=for-the-badge)](https://github.com/JDashDash/J--)
 <div style="text-align:center">
-  [![J-- Logo](https://media.discordapp.net/attachments/781983259210547280/1138129595116294224/J--.png?width=402&height=402)
+  <img src="https://media.discordapp.net/attachments/781983259210547280/1138129595116294224/J--.png?width=402&height=402" alt="J-- Logo">
 </div>
 
 
